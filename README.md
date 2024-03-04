@@ -88,4 +88,4 @@ Our web app project successfully fulfills all the criteria outlined in the gradi
 
 ## Contact
 
-- Email: prkaldat@syr.edu
+- Email: amergoju@syr.edu
