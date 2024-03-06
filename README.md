@@ -1,4 +1,4 @@
-# OldBooks
+# Smart TextBook Exchange Web-App
 
 ## Motivation
 Textbooks are expensive! This project aims to address the high cost of textbooks by implementing 
